@@ -80,8 +80,8 @@ $ git commit -m "Изменения в новой ветке"
 *добавлениt новой ветки*
 
 
-![Добавлена новая ветка](./screenshots/7.png)
-![Синхронизация с Git Hub](./screenshots/7.1.png)
+![Добавлена новая ветка](./screenshots/c7.png)
+![Синхронизация с Git Hub](./screenshots/c7.1.png)
 
 ## 9. Слияние веток
 
@@ -158,7 +158,7 @@ $ git log --pretty=format:"%h %ad %an %s" --date=short
 ## 15. История операций
 Список истории операций:
 
-
+```bash
 2ae391e 2024-11-29 Kostya471 изменение в файле 1
 
 
@@ -181,7 +181,7 @@ c08a654 2020-11-21 Kurtyanik Файл создан пустым
 
 
 3c6e913 2020-11-21 Kurtyanik Initial commit
-
+```
 
 
 
